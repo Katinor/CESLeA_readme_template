@@ -4,7 +4,7 @@
 
 - [about Dual Licensing](#about-dual-licensing)를 정독하세요.
 - [행동강령](https://github.com/Katinor/CESLeA_readme_template/blob/master/CODE_OF_CONDUCT_ko.md)을 정독하세요.
-- [Coding Style](https://www.python.org/dev/peps/pep-0008/)이 일관되도록 해주세요.
+- [Coding Style](https://www.python.org/dev/peps/pep-0008/)이 일관되도록 해주세요. <!--- You can use another coding style. just write below as additional paragraph-->
 - 단위 테스트를 수행하세요.
 - 이 기여지침서에 대한 동의를 첨부해주세요.
 

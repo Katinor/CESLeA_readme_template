@@ -4,7 +4,7 @@
 
 - Read [about Dual Licensing](#about-dual-licensing)
 - Read [Code of Conduct](https://github.com/Katinor/CESLeA_readme_template/blob/master/CODE_OF_CONDUCT.md)
-- Changes are consistent with the [Coding Style](https://www.python.org/dev/peps/pep-0008/).
+- Changes are consistent with the [Coding Style](https://www.python.org/dev/peps/pep-0008/). <!--- You can use another coding style. just write below as additional paragraph-->
 - Run Unit Tests
 - Include the signs of agreement about this guidelines.
 

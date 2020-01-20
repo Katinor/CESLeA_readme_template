@@ -10,9 +10,8 @@
 - [Key Features](#key-features)
 - [Installation](#installation)
 - [Introduction](#introduction)
+- [Contribution guidelines](#contribution-guidelines)
 - [LICENSE](#license)
-  - [Commercial usage](#commercial-usage)
-  - [Open Source usage](#open-source-usage)
 
 ## Key Features
 
@@ -23,6 +22,13 @@
 
 WIP
 
+## Contribution guidelines
+
+본 소프트웨어에 기여하고 싶으시다면 반드시 [기여 지침서]를 정독해주세요. 이 프로젝트는 [행동강령]을 따르고 있습니다. 이 프로젝트에 참여할 경우, 행동강령을 확인하고 따르는 데에 동의하였다고 판단하겠습니다.
+
+## Introduction
+
+[소개문서] 에서 자세한 소개를 확인하실 수 있습니다. 아래는 요약본입니다.
 ## Introduction
 
 [자율지능 디지털 동반자] 프로젝트는 [전자부품연구원]에서 총괄하는 사업으로 [과학기술정보통신부]의 재원으로
@@ -38,31 +44,16 @@ WIP
 
 ## LICENSE
 
-본 소프트웨어는 대한민국의 [과학기술정보통신부]의 예산으로 [정보통신기획평가원]의 지원을 받고 있는 [자율지능 디지털 동반자] 프로젝트의 결과로서 경북대학교가 제공하는 [CESLeA.SISystem]의 릴리즈입니다. 본 소프트웨어는 아래에 있는 GNU 약소 일반 공중 사용 허가서 3판 (LGPLv3)에 따라 몇가지 추가 규정과 함께 배포됩니다.
-
-경북대학교는 이 CESLeA.SISystem을 주문자 상표에 의한 제품 제조업자들과 독립 소프트웨어 판매업자들과 부가 가치 재판매업자들과 같은 상업적 배급자들과 오픈소스 프로젝트 양 측의 개발 및 배포목적에 맞추기 위해 듀얼 라이센스를 적용해 본 소프트웨어를 배포하고 있습니다.
-
-### Commercial usage
-OEM, ISV, VAR 와 기타 배급자 및 상용 어플리케이션에 대해:
-
-본 CESLeA.SISystem를 사용해 제작하고 배포할 상용 소프트웨어를 제작하였으나 GNU 약소 일반 공중 사용 허가서 3판에 따라 소스코드를 배포하기를 원치 않는 주문자 상표에 의한 제품 제조업자들과 독립 소프트웨어 판매업자들과 부가 가치 재판매업자들과 그 외 다른 배포업자들은 경북대학교와 상용 라이센스를 채결해야만 합니다.
-
-### Open Source usage
-오픈소스 프로젝트 및 그 외 오픈소스 이용 어플리케이션에 대해:
-본 CESLeA.SISystem를 사용해 제작하고 배포할 무료 오픈소스 소프트웨어 어플리케이션의 개발자들은 해당 어플리케이션을 GNU 약소 일반 공중 사용 허가서 3판에 따라 제공하여야 합니다.
-
-문의처
-경북대학교 MILab
-South Korea: +82-53-950-5517
-Email: cdef3456@naver.com
-
-Copyright (c) 2018 - 2020, Kyungpook National University. All rights reserved.
-
+[GNU 약소 일반 공중 사용 허가서 3판]
 
 [license]: https://img.shields.io/github/license/Katinor/CESLeA_readme_template
-[CESLeA.SISystem]: https://github.com/Ckst123/CESLeA
-[CESLeA]: http://abr.knu.ac.kr/wordpress/ceslea/
+[CESLeA.SISystem]: https://github.com/Katinor/CESLeA_readme_template/
+[기여 지침서]: https://github.com/Katinor/CESLeA_readme_template/blob/master/example/CONTRIBUTING_ko.md
+[행동강령]: https://github.com/Katinor/CESLeA_readme_template/blob/master/example/CODE_OF_CONDUCT_ko.md
+[소개문서]: https://github.com/Katinor/CESLeA_readme_template/blob/master/example/INTRO_ko.md
 [자율지능 디지털 동반자]: http://aicompanion.or.kr/
 [전자부품연구원]: https://www.keti.re.kr/
 [과학기술정보통신부]: https://www.msit.go.kr/
 [정보통신기획평가원]: https://www.iitp.kr/
+[CESLeA]: http://abr.knu.ac.kr/wordpress/ceslea/
+[GNU 약소 일반 공중 사용 허가서 3판]: https://github.com/Katinor/CESLeA_readme_template/blob/master/example/LICENSE

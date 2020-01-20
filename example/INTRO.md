@@ -2,7 +2,7 @@
 
 ---
 
-<!--- Short introduction -->
+Sound Integration Module for [CESLeA] project.
 
 **Table of Contents**
 
@@ -49,15 +49,10 @@ CESLeA consists of 4 teams and lasts 5 years. We call it as SHE&I with CESLeA.
 
 ## about this
 
-<!---
-Write detail introduction of your module.
-If you wanna make some links, use [blahblah] and look below.
--->
+<b>[CESLeA.SISystem]</b> is sound integration module for [CESLeA] project developed by the 1st team in CESLeA project. This team is researching about autonomous intelligence Based on AI learning.
+This module consists of speaker recognition, voice detection and voice controller.
 
-<!---
-Here is for making links. if you used [blahblah] above this section, Here you can make them hypertext.
-You need to change the destination of each urls to your own repository.
--->
+[CESLeA.SISystem]: https://github.com/Katinor/CESLeA_readme_template/
 [CESLeA]: http://abr.knu.ac.kr/wordpress/ceslea/
 [Autonomous Digital Companion]: http://aicompanion.or.kr/
 [KETI]: https://www.keti.re.kr/

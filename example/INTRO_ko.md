@@ -2,7 +2,7 @@
 
 ---
 
-<!--- Short introduction -->
+<b>[CESLeA.SISystem]</b>은 [CESLeA] 프로젝트를 위해 개발된 음성 통합 모듈입니다.
 
 **Table of Contents**
 
@@ -54,15 +54,10 @@ CESLeA는 4개의 팀으로 구성되어 있으며, 5년간 진행됩니다. 이
 
 ## about this
 
-<!---
-Write detail introduction of your module.
-If you wanna make some links, use [blahblah] and look below.
--->
+<b>[CESLeA.SISystem]</b>은 <b>인공지능 학습기반의 자율지능</b>을 연구하는 3세부 내 1팀에서 [CESLeA] 프로젝트를 위해 개발중인 음성 통합 모듈입니다.
+본 모듈은 화자인식, 음성검출, 음성컨트롤러로 구성되어 있습니다.
 
-<!---
-Here is for making links. if you used [blahblah] above this section, Here you can make them hypertext.
-You need to change the destination of each urls to your own repository.
--->
+[CESLeA.SISystem]: https://github.com/Katinor/CESLeA_readme_template/
 [CESLeA]: http://abr.knu.ac.kr/wordpress/ceslea/
 [디지털 동반자]: http://aicompanion.or.kr/
 [전자부품연구원]: https://www.keti.re.kr/
